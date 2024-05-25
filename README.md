@@ -1,6 +1,6 @@
 # Git Demo Repo
 
-This is a sample repository for Tim Corey Git Course
+This is a sample app for Tim Corey Git Course
 
 ## Roadmap
 
